@@ -600,13 +600,3 @@ Meskipun demikian, struktur sistem sudah terbentuk dan semua komponen utama prak
 # Kesimpulan
 Praktikum modul 1 sampai modul 4 memberikan pemahaman bertahap mengenai pengembangan web menggunakan CodeIgniter 4.  
 Dimulai dari instalasi dan pengenalan framework, kemudian dilanjutkan ke pembuatan route, controller, view, integrasi database, pengelolaan artikel, hingga autentikasi login admin menggunakan session dan filter auth. Berdasarkan implementasi pada source code, project ini telah mencakup komponen utama yang dibutuhkan dalam praktikum dan dapat menjadi dasar untuk pengembangan sistem web yang lebih lengkap. [file:111][file:113][file:34]
-
----
-
-# Developer
-**Nama:** [Isi Nama Kamu]  
-**Kelas / NIM:** [Isi Kelas atau NIM Kamu]  
-**Mata Kuliah:** Praktikum Pemrograman Web / Pemrograman Web  
-**Framework:** CodeIgniter 4
-
----
